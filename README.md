@@ -21,6 +21,8 @@ If someone has ran the server before you, always `git pull` to get the latest ch
 
 Always push new changes everytime the server is shut down to ensure proper history
 
+If you don't have 16GB of unused ram change `-Xmx16G` in `run.bat` to `-Xmx8G` or `-Xmx4G`
+
 ___
 
 ### Contributing
