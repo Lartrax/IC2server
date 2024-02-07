@@ -1,6 +1,6 @@
 ### Prerequisites
 
-[Java 8 64 bit](https://www.java.com/download/ie_manual.jsp)
+[Java 8 64 bit](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=249553_4d245f941845490c91360409ecffb3b4)
 
 ___
 
