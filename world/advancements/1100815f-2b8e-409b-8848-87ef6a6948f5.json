@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-02-07 19:48:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-02-06 19:59:15 +0100"
@@ -50,6 +56,12 @@
   "biomesoplenty:recipes/decorations/sign_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-02-06 19:35:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-02-07 20:36:38 +0100"
     },
     "done": true
   },
@@ -179,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-02-07 19:52:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2024-02-06 19:43:15 +0100"
@@ -218,10 +236,15 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-02-06 20:05:58 +0100",
+      "porkchop": "2024-02-07 20:39:50 +0100",
       "apple": "2024-02-06 20:26:39 +0100",
+      "potato": "2024-02-07 20:10:36 +0100",
+      "pumpkin_pie": "2024-02-07 19:49:32 +0100",
       "mutton": "2024-02-06 19:59:25 +0100",
       "cookie": "2024-02-06 21:32:48 +0100",
-      "mushroom_stew": "2024-02-06 19:43:21 +0100"
+      "rotten_flesh": "2024-02-07 20:12:35 +0100",
+      "mushroom_stew": "2024-02-06 19:43:21 +0100",
+      "carrot": "2024-02-07 20:12:09 +0100"
     },
     "done": false
   },
@@ -297,6 +320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-02-07 20:36:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-02-06 20:23:25 +0100"
@@ -306,6 +335,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2024-02-06 21:00:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-02-07 19:48:58 +0100"
     },
     "done": true
   },
@@ -496,6 +531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-02-07 20:36:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-02-06 19:36:11 +0100"
@@ -532,6 +573,7 @@
       "skeleton": "2024-02-06 19:54:09 +0100",
       "zombie": "2024-02-06 19:36:50 +0100",
       "witch": "2024-02-06 20:07:28 +0100",
+      "spider": "2024-02-07 19:48:58 +0100",
       "creeper": "2024-02-06 20:14:28 +0100"
     },
     "done": false
@@ -860,6 +902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-02-07 19:48:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
     "criteria": {
       "has_planks": "2024-02-06 22:00:22 +0100"
@@ -950,9 +998,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2024-02-07 19:48:58 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_mahogany": {
     "criteria": {
       "entered_water": "2024-02-06 20:20:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-02-07 20:36:38 +0100"
     },
     "done": true
   },
@@ -1029,6 +1089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-02-07 19:48:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-02-06 19:36:11 +0100"
@@ -1059,9 +1125,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-02-07 20:36:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2024-02-06 20:20:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-02-07 20:25:42 +0100"
     },
     "done": true
   },
@@ -1086,6 +1164,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-02-06 20:25:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-02-07 20:11:57 +0100"
     },
     "done": true
   },
