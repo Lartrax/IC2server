@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-02-10 23:27:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2024-02-06 19:56:17 +0100"
@@ -368,6 +374,12 @@
   "biomesoplenty:recipes/transportation/boat_ethereal": {
     "criteria": {
       "entered_water": "2024-02-06 19:59:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-02-10 18:16:26 +0100"
     },
     "done": true
   },
@@ -427,6 +439,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-02-06 19:56:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-02-11 00:17:00 +0100"
     },
     "done": true
   },
@@ -674,6 +692,7 @@
       "redwood_forest": "2024-02-09 20:02:56 +0100",
       "fungi_forest": "2024-02-08 17:27:45 +0100",
       "grassland": "2024-02-09 22:52:14 +0100",
+      "undergarden": "2024-02-11 00:13:44 +0100",
       "brushland": "2024-02-09 22:55:27 +0100"
     },
     "done": false
@@ -942,6 +961,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2024-02-11 00:17:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-02-06 21:12:21 +0100"
@@ -950,6 +975,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2024-02-10 13:23:16 +0100",
+      "wither_skeleton": "2024-02-11 00:14:28 +0100",
+      "zombie_villager": "2024-02-10 12:54:48 +0100",
       "skeleton": "2024-02-06 20:10:24 +0100",
       "silverfish": "2024-02-06 20:40:44 +0100",
       "zombie": "2024-02-06 20:40:46 +0100",
@@ -1259,6 +1287,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-02-11 00:13:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2024-02-07 20:46:44 +0100"
@@ -1315,6 +1349,7 @@
   },
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
+      "amber": "2024-02-10 16:39:44 +0100",
       "emerald": "2024-02-08 17:39:46 +0100",
       "ruby": "2024-02-09 23:08:32 +0100"
     },
@@ -1341,6 +1376,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-02-06 20:20:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2024-02-10 18:09:31 +0100"
     },
     "done": true
   },
@@ -1660,6 +1701,12 @@
   "botania:main/lexicon_use": {
     "criteria": {
       "use_lexicon": "2024-02-08 20:43:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-02-10 21:12:34 +0100"
     },
     "done": true
   },
@@ -2075,6 +2122,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-02-09 19:58:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2024-02-10 18:39:40 +0100"
     },
     "done": true
   },

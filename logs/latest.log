@@ -1,250 +1,60 @@
-[00:02:15] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IG9TE moved wrongly!
-[00:03:10] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
-[00:03:11] [Server thread/INFO] [FML]: Unloading dimension -1
-[00:03:12] [Thread-57/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
-[00:03:28] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:03:28] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:03:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IG9TE moved wrongly!
-[00:05:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:06:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:06:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:06:14] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:08:02] [Server thread/INFO] [ic2.PlayerActivity]: Player Bass_Gamer/b02a2d7b-af64-46cd-8a78-92568e37d963 used a wrench to remove the block ic2:te[facing=north,material=ic2_material_machine,transparent=false,type=wind_kinetic_generator] (te WindKineticGenerator) at dim 0: 195/89/613.
-[00:09:09] [Server thread/INFO] [ic2.PlayerActivity]: Player Bass_Gamer/b02a2d7b-af64-46cd-8a78-92568e37d963 used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=wind_kinetic_generator_active] (te WindKineticGenerator) at dim 0: 196/102/618.
-[00:11:38] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:11:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:11:47] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:13:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:13:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:13:43] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:13:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:14:18] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
-[00:14:18] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5db97a11)
-[00:14:18] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
-[00:14:18] [Thread-58/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
-[00:14:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: fabianronzani moved too quickly! -177.0,6.0,-545.1993471384403
-[00:15:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IG9TE has made the advancement [A Terrible Fortress]
-[00:15:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IG9TE has made the advancement [Into Fire]
-[00:26:07] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:26:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:26:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: IG9TE lost connection: Disconnected
-[00:26:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IG9TE left the game
-[00:26:28] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:26:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:26:35] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:26:47] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:26:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:27:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:27:26] [User Authenticator #14/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player IG9TE is aae0d06b-2bcf-45dd-8aff-408477b6183d
-[00:27:26] [Netty Server IO #10/INFO] [FML]: Client protocol version 2
-[00:27:26] [Netty Server IO #10/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,industrialforegoing@1.12.2-1.12.2,tcomplement@1.12.2-0.4.3,ambientsounds@3.0,mousetweaks@2.10,biomesoplenty@7.0.1.2445,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.301,botania@r1.10-364,teslacorelib_registries@1.0.18,extrautils2@1.0,wawla@2.6.275,bettercaves@1.12.2,mantle@1.12-1.3.3.55,ic2@2.8.170-ex112,patchouli@1.0-23.6,waystones@4.1.0,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p1,teslacorelib@1.0.18,oreexcavation@1.4.150,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,appleskin@1.0.14,waila@1.8.26,aquaculture@1.6.8,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,mysticalworld@1.12.2-1.11.0,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,bettermineshafts@1.12.2-2.2.1,soundfilters@0.12.1_for_1.12,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
-[00:27:26] [Netty Server IO #10/INFO] [journeymap]: CLIENT
-[00:27:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:27:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: IG9TE lost connection: Disconnected
-[00:27:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IG9TE left the game
-[00:27:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:28:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:28:11] [User Authenticator #15/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player IG9TE is aae0d06b-2bcf-45dd-8aff-408477b6183d
-[00:28:11] [Netty Server IO #12/INFO] [FML]: Client protocol version 2
-[00:28:11] [Netty Server IO #12/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,industrialforegoing@1.12.2-1.12.2,tcomplement@1.12.2-0.4.3,ambientsounds@3.0,mousetweaks@2.10,biomesoplenty@7.0.1.2445,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.301,botania@r1.10-364,teslacorelib_registries@1.0.18,extrautils2@1.0,wawla@2.6.275,bettercaves@1.12.2,mantle@1.12-1.3.3.55,ic2@2.8.170-ex112,patchouli@1.0-23.6,waystones@4.1.0,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p1,teslacorelib@1.0.18,oreexcavation@1.4.150,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,appleskin@1.0.14,waila@1.8.26,aquaculture@1.6.8,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,mysticalworld@1.12.2-1.11.0,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,bettermineshafts@1.12.2-2.2.1,soundfilters@0.12.1_for_1.12,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
-[00:28:11] [Netty Server IO #12/INFO] [journeymap]: CLIENT
-[00:28:12] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:28:12] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: IG9TE[/79.161.78.7:51679] logged in with entity id 201328 at (139.90056852638583, 32.74807046222715, 56.69999998807907)
-[00:28:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IG9TE joined the game
-[00:28:12] [Server thread/INFO] [Waila]: Player EntityPlayerMP['IG9TE'/201328, l='world', x=139,90, y=32,75, z=56,70] connected. Sending ping
-[00:28:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Lartrax: Teleported IG9TE to fabianronzani]
-[00:28:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:28:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:29:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:29:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:29:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:30:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:33:17] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
-[00:33:17] [Server thread/INFO] [FML]: Unloading dimension -1
-[00:33:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: fabianronzani moved too quickly! 177.0,-6.0,544.8205522991504
-[00:33:18] [Thread-58/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
-[00:33:27] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:33:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:33:29] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:33:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:33:46] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:33:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IG9TE moved wrongly!
-[00:34:47] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:35:04] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
-[00:35:04] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5db97a11)
-[00:35:04] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
-[00:35:04] [Thread-59/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
-[00:35:43] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
-[00:35:44] [Server thread/INFO] [FML]: Unloading dimension -1
-[00:35:45] [Thread-59/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
-[00:35:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:35:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:35:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:37:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:37:50] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:37:51] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:39:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:40:28] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
-[00:40:28] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@5db97a11)
-[00:40:28] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
-[00:40:28] [Thread-60/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
-[00:42:24] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:42:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:42:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: fabianronzani moved too quickly! -177.0,6.0,-544.9533562393744
-[00:42:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bass_Gamer moved too quickly! -177.0,6.0,-545.0958284826771
-[00:44:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IG9TE moved wrongly!
-[00:45:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:45:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:45:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IG9TE moved too quickly! 6.747765885791807,1.096552559380541,14.377354445977971
-[00:45:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bass_Gamer lost connection: Disconnected
-[00:45:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bass_Gamer left the game
-[00:45:11] [User Authenticator #16/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Bass_Gamer is b02a2d7b-af64-46cd-8a78-92568e37d963
-[00:45:11] [Netty Server IO #15/INFO] [FML]: Client protocol version 2
-[00:45:11] [Netty Server IO #15/INFO] [FML]: Client attempting to join with 40 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,industrialforegoing@1.12.2-1.12.2,tcomplement@1.12.2-0.4.3,ambientsounds@3.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.301,botania@r1.10-364,teslacorelib_registries@1.0.18,extrautils2@1.0,wawla@2.6.275,bettercaves@1.12.2,mantle@1.12-1.3.3.55,ic2@2.8.170-ex112,patchouli@1.0-23.6,waystones@4.1.0,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p1,teslacorelib@1.0.18,oreexcavation@1.4.150,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,appleskin@1.0.14,waila@1.8.26,aquaculture@1.6.8,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,mysticalworld@1.12.2-1.11.0,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,bettermineshafts@1.12.2-2.2.1,soundfilters@0.12.1_for_1.12,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
-[00:45:11] [Netty Server IO #15/INFO] [journeymap]: CLIENT
-[00:45:12] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:45:12] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bass_Gamer[/158.248.118.10:53480] logged in with entity id 214532 at (-3.42409251163091, 115.0, 60.26358413753202)
-[00:45:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bass_Gamer joined the game
-[00:45:12] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Bass_Gamer'/214532, l='world', x=-3,42, y=115,00, z=60,26] connected. Sending ping
-[00:45:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: fabianronzani lost connection: Disconnected
-[00:45:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fabianronzani left the game
-[00:45:30] [User Authenticator #17/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player fabianronzani is 5be8fc7e-8a29-43ce-8393-842320e5c17b
-[00:45:31] [Netty Server IO #17/INFO] [FML]: Client protocol version 2
-[00:45:31] [Netty Server IO #17/INFO] [FML]: Client attempting to join with 40 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,industrialforegoing@1.12.2-1.12.2,tcomplement@1.12.2-0.4.3,ambientsounds@3.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.301,botania@r1.10-364,teslacorelib_registries@1.0.18,extrautils2@1.0,wawla@2.6.275,bettercaves@1.12.2,mantle@1.12-1.3.3.55,ic2@2.8.170-ex112,patchouli@1.0-23.6,waystones@4.1.0,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p1,teslacorelib@1.0.18,oreexcavation@1.4.150,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,appleskin@1.0.14,waila@1.8.26,aquaculture@1.6.8,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,mysticalworld@1.12.2-1.11.0,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,bettermineshafts@1.12.2-2.2.1,soundfilters@0.12.1_for_1.12,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
-[00:45:31] [Netty Server IO #17/INFO] [journeymap]: CLIENT
-[00:45:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:45:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: fabianronzani[/79.160.26.156:39539] logged in with entity id 214658 at (5.771544692057107, 106.0, 58.30000001192093)
-[00:45:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fabianronzani joined the game
-[00:45:31] [Server thread/INFO] [Waila]: Player EntityPlayerMP['fabianronzani'/214658, l='world', x=5,77, y=106,00, z=58,30] connected. Sending ping
-[00:45:57] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:45:57] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:46:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bass_Gamer has made the advancement [Suit Up]
-[00:46:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bass_Gamer moved too quickly! -177.0,6.0,-545.2909356248871
-[00:47:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> uwu
-[00:48:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bass_Gamer has made the advancement [Spooky Scary Skeleton]
-[00:48:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bass_Gamer has made the advancement [Withering Heights]
-[00:48:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fabianronzani has made the advancement [Withering Heights]
-[00:49:58] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
-[00:49:59] [Server thread/INFO] [FML]: Unloading dimension -1
-[00:50:00] [Thread-60/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
-[00:50:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:50:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:50:06] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:51:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:51:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:51:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:51:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:51:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:51:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:51:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:51:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:54:00] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:54:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:54:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:55:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:57:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:57:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:57:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:58:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IG9TE moved wrongly!
-[00:58:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:59:02] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
-[00:59:39] [Server thread/WARN] [FML]: Mystical World loaded a new chunk [-40, 47] in dimension 0 (overworld) while populating chunk [-39, 47], causing cascading worldgen lag.
-[00:59:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:59:44] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-44, 56] in dimension 0 (overworld) while populating chunk [-43, 56], causing cascading worldgen lag.
-[00:59:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:59:44] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-44, 55] in dimension 0 (overworld) while populating chunk [-43, 56], causing cascading worldgen lag.
-[00:59:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:59:52] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-49, 41] in dimension 0 (overworld) while populating chunk [-48, 41], causing cascading worldgen lag.
-[00:59:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:59:53] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2690ms behind, skipping 53 tick(s)
-[01:00:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IG9TE moved too quickly! -8.415896423353729,-8.319591037700093,0.9203124222576662
-[01:00:25] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2547ms behind, skipping 50 tick(s)
-[01:00:30] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-69, 31] in dimension 0 (overworld) while populating chunk [-68, 31], causing cascading worldgen lag.
-[01:00:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[01:02:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IG9TE moved too quickly! -0.09180105041355091,-6.418601294585855,8.807069896824032
-[01:02:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IG9TE moved wrongly!
-[01:02:44] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2434ms behind, skipping 48 tick(s)
-[01:03:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IG9TE moved too quickly! 8.95368731670743,-4.723030521060451,5.891023012708047
-[01:03:22] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2989ms behind, skipping 59 tick(s)
-[01:03:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IG9TE moved too quickly! 7.7883045971812805,3.018445900002021,-5.991048240026657
-[01:03:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IG9TE moved too quickly! 8.336076712806076,-8.471781194883775,0.4360870709631399
-[01:04:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IG9TE moved wrongly!
-[01:04:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IG9TE moved too quickly! 1.033733917866357,4.859182843681168,-11.75151934473638
-[01:05:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:05:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:06:03] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:08:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fabianronzani has made the advancement [Ice Bucket Challenge]
-[01:09:05] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:09:34] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:09:38] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:10:47] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:10:57] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:10:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:10:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:11:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:11:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IG9TE moved wrongly!
-[01:11:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:11:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:11:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:16:14] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:16:15] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:16:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:17:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:17:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:17:25] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:17:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: fabianronzani moved wrongly!
-[01:17:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IG9TE moved wrongly!
-[01:17:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IG9TE moved wrongly!
-[01:18:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:18:18] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:18:18] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:18:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:18:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:18:34] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:18:40] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:19:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:19:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:19:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:19:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:19:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:19:44] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:21:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IG9TE moved too quickly! 12.181219666017341,1.5029712422272326,-3.159366370913858
-[01:21:31] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
-[01:23:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:23:57] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:23:58] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:24:25] [Server thread/INFO] [ic2.PlayerActivity]: Player Bass_Gamer/b02a2d7b-af64-46cd-8a78-92568e37d963 used a wrench to remove the block ic2:te[facing=up,material=ic2_material_machine,transparent=false,type=kinetic_generator] (te KineticGenerator) at dim 0: 196/102/617.
-[01:24:26] [Server thread/INFO] [ic2.PlayerActivity]: Player Bass_Gamer/b02a2d7b-af64-46cd-8a78-92568e37d963 used a wrench to remove the block ic2:te[facing=north,material=ic2_material_machine,transparent=false,type=wind_kinetic_generator] (te WindKineticGenerator) at dim 0: 196/102/618.
-[01:24:47] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:26:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:26:35] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:26:37] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:26:47] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:26:56] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:27:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:27:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Lartrax moved wrongly!
-[01:27:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bass_Gamer moved wrongly!
-[01:29:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:31:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:31:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:31:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:32:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:32:01] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:32:02] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:32:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lartrax lost connection: Disconnected
-[01:32:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lartrax left the game
-[01:32:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[01:32:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bass_Gamer lost connection: Disconnected
-[01:32:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bass_Gamer left the game
-[01:34:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: IG9TE moved wrongly!
-[01:35:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: IG9TE lost connection: Disconnected
-[01:35:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: IG9TE left the game
-[01:35:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: There are 1/999999 players online:
-[01:35:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fabianronzani
-[01:39:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Usage: /tellraw <player> <raw json message>
-[01:40:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: fabianronzani lost connection: Disconnected
-[01:40:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fabianronzani left the game
-[01:40:05] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[01:40:05] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[01:40:05] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[01:40:05] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[00:13:22] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[00:13:22] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@3a4dbb78)
+[00:13:22] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[00:13:23] [Thread-58/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[00:13:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bass_Gamer moved too quickly! -193.0,24.0,-545.0598562044014
+[00:13:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bass_Gamer has made the advancement [A Terrible Fortress]
+[00:16:52] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[00:16:52] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:16:53] [Thread-58/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[00:17:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bass_Gamer moved too quickly! 2.490926188109313,6.000000238418579,8.09653855582576
+[00:18:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lartrax lost connection: Disconnected
+[00:18:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lartrax left the game
+[00:19:00] [User Authenticator #17/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Lartrax is 1100815f-2b8e-409b-8848-87ef6a6948f5
+[00:19:00] [Netty Server IO #44/INFO] [FML]: Client protocol version 2
+[00:19:00] [Netty Server IO #44/INFO] [FML]: Client attempting to join with 40 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,industrialforegoing@1.12.2-1.12.2,tcomplement@1.12.2-0.4.3,ambientsounds@3.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.301,botania@r1.10-364,teslacorelib_registries@1.0.18,extrautils2@1.0,wawla@2.6.275,bettercaves@1.12.2,mantle@1.12-1.3.3.55,ic2@2.8.170-ex112,patchouli@1.0-23.6,waystones@4.1.0,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p1,teslacorelib@1.0.18,oreexcavation@1.4.150,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,appleskin@1.0.14,waila@1.8.26,aquaculture@1.6.8,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,mysticalworld@1.12.2-1.11.0,forge@14.23.5.2860,mysticallib@1.12.2-1.13.0,bettermineshafts@1.12.2-2.2.1,soundfilters@0.12.1_for_1.12,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[00:19:00] [Netty Server IO #44/INFO] [journeymap]: CLIENT
+[00:19:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:19:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lartrax[/192.168.0.40:58736] logged in with entity id 434975 at (361.92917736908976, 67.0, 699.6342748653657)
+[00:19:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lartrax joined the game
+[00:19:01] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lartrax'/434975, l='world', x=361,93, y=67,00, z=699,63] connected. Sending ping
+[00:24:42] [Server thread/INFO] [ic2.PlayerActivity]: Player Bass_Gamer/b02a2d7b-af64-46cd-8a78-92568e37d963 used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=terraformer] (te Terra) at dim 0: 192/87/621.
+[00:24:48] [Server thread/INFO] [ic2.PlayerActivity]: Player Bass_Gamer/b02a2d7b-af64-46cd-8a78-92568e37d963 used a wrench to remove the block ic2:te[facing=west,material=ic2_material_machine,transparent=false,type=terraformer] (te Terra) at dim 0: 198/89/616.
+[00:27:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> omg
+[00:28:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> terraformeren funke
+[00:28:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> an spawne bare inn masse blocks
+[00:28:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> an spise sjuke mengder strøm da...
+[00:29:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> an draina 1000000 eu/t på rundt 3 min...
+[00:29:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lartrax> damn
+[00:29:54] [Server thread/INFO] [ic2.PlayerActivity]: Player Bass_Gamer/b02a2d7b-af64-46cd-8a78-92568e37d963 used a wrench to remove the block ic2:te[facing=west,material=ic2_material_machine,transparent=false,type=terraformer] (te Terra) at dim 0: 198/89/616.
+[00:37:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> funka den mineren din foressten?
+[00:37:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lartrax> ja, va ikkje særlig rask da
+[00:37:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> hmm ait da
+[00:37:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lartrax> også mina an bare rett ned
+[00:40:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lartrax> skrur av serveren 01:00
+[00:41:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> ait
+[00:41:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> damn, eg fant plassen der thomas bor
+[00:41:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lartrax> ye, han fikk noen store fjell
+[00:41:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> x: 82, z: 47, y. 101
+[00:41:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> ye
+[00:41:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> store fjell med chunk bugs her og der
+[00:44:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> tror eg stikke og legge meg :)
+[00:44:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lartrax> ok gn
+[00:44:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> god natt
+[00:44:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bass_Gamer lost connection: Disconnected
+[00:44:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bass_Gamer left the game
+[00:57:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lartrax lost connection: Disconnected
+[00:57:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lartrax left the game
+[00:57:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[00:57:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:57:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:57:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:57:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[00:57:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[00:57:41] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[00:57:41] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -9999
+[00:57:41] [Server thread/INFO] [FML]: Unloading dimension 0
+[00:57:41] [Server thread/INFO] [FML]: Unloading dimension -9999
+[00:57:41] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:57:41] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:57:41] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
