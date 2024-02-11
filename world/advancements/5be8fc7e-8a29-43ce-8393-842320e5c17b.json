@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-11 20:57:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-02-06 20:23:32 +0100"
@@ -77,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-02-11 20:57:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-02-06 20:30:24 +0100"
@@ -134,6 +146,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_the_recipe": "2024-02-07 21:16:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-11 20:57:14 +0100"
     },
     "done": true
   },
@@ -233,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-11 20:57:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-02-06 22:00:59 +0100"
@@ -281,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-02-11 21:17:42 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_ethereal": {
     "criteria": {
       "entered_water": "2024-02-06 20:22:37 +0100"
@@ -308,6 +338,18 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log2": "2024-02-06 20:37:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-11 20:57:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-02-11 20:57:50 +0100"
     },
     "done": true
   },
@@ -357,6 +399,12 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2024-02-08 23:24:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-02-11 22:49:57 +0100"
     },
     "done": true
   },
@@ -417,6 +465,12 @@
   "mysticalworld:amethyst": {
     "criteria": {
       "book": "2024-02-07 21:07:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-02-11 20:57:14 +0100"
     },
     "done": true
   },
@@ -564,6 +618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-11 20:57:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2024-02-06 22:03:08 +0100",
@@ -599,16 +659,28 @@
     "criteria": {
       "shrubland": "2024-02-10 20:49:13 +0100",
       "xeric_shrubland": "2024-02-10 20:44:54 +0100",
+      "tropical_rainforest": "2024-02-11 21:55:01 +0100",
       "steppe": "2024-02-10 20:52:07 +0100",
       "alps_foothills": "2024-02-11 17:48:32 +0100",
       "phantasmagoric_inferno": "2024-02-10 22:23:08 +0100",
       "highland": "2024-02-10 00:49:54 +0100",
       "chaparral": "2024-02-09 22:06:11 +0100",
+      "coniferous_forest": "2024-02-11 21:50:13 +0100",
+      "eucalyptus_forest": "2024-02-11 21:56:11 +0100",
       "outback": "2024-02-10 20:42:14 +0100",
+      "mangrove": "2024-02-11 21:53:30 +0100",
       "visceral_heap": "2024-02-10 00:23:46 +0100",
+      "cherry_blossom_grove": "2024-02-11 22:02:31 +0100",
       "corrupted_sands": "2024-02-11 14:20:38 +0100",
+      "bamboo_forest": "2024-02-11 21:56:41 +0100",
+      "meadow": "2024-02-11 21:52:59 +0100",
       "fungi_forest": "2024-02-10 21:34:46 +0100",
-      "undergarden": "2024-02-08 23:24:21 +0100"
+      "grassland": "2024-02-11 22:04:47 +0100",
+      "tundra": "2024-02-11 21:50:50 +0100",
+      "undergarden": "2024-02-08 23:24:21 +0100",
+      "gravel_beach": "2024-02-11 21:51:38 +0100",
+      "grove": "2024-02-11 22:04:59 +0100",
+      "brushland": "2024-02-11 21:20:26 +0100"
     },
     "done": false
   },
@@ -633,6 +705,12 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2024-02-10 22:20:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-02-11 21:17:42 +0100"
     },
     "done": true
   },
@@ -681,6 +759,12 @@
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-02-06 21:18:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-11 20:57:14 +0100"
     },
     "done": true
   },
@@ -860,6 +944,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2024-02-11 22:49:55 +0100",
       "wither_skeleton": "2024-02-08 23:24:51 +0100",
       "zombie_villager": "2024-02-07 21:22:01 +0100",
       "magma_cube": "2024-02-10 22:15:12 +0100",
@@ -926,6 +1011,12 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2024-02-09 22:08:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-02-11 20:57:14 +0100"
     },
     "done": true
   },
@@ -1073,6 +1164,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-11 20:57:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2024-02-07 21:25:12 +0100"
@@ -1097,6 +1194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-11 20:57:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-02-08 19:44:44 +0100"
@@ -1106,6 +1209,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_lapis": "2024-02-07 21:25:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-11 20:57:14 +0100"
     },
     "done": true
   },
@@ -1124,6 +1233,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-02-06 21:18:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-11 20:57:14 +0100"
     },
     "done": true
   },
@@ -1154,6 +1269,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2024-02-07 21:00:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-02-11 20:57:14 +0100"
     },
     "done": true
   },
@@ -1269,6 +1390,12 @@
   "biomesoplenty:recipes/redstone/wooden_pressure_plate_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2024-02-06 20:23:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-11 20:57:14 +0100"
     },
     "done": true
   },
@@ -1483,6 +1610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-11 20:57:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2024-02-06 20:26:02 +0100"
@@ -1603,6 +1736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-02-11 20:33:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2024-02-07 22:05:21 +0100"
@@ -1611,17 +1750,29 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2024-02-11 21:49:59 +0100",
+      "taiga_cold_hills": "2024-02-11 21:48:50 +0100",
       "forest": "2024-02-06 20:17:42 +0100",
       "birch_forest": "2024-02-10 20:41:58 +0100",
+      "swampland": "2024-02-11 21:59:11 +0100",
+      "desert_hills": "2024-02-11 21:41:56 +0100",
+      "mesa": "2024-02-11 21:35:37 +0100",
       "forest_hills": "2024-02-08 20:14:36 +0100",
       "plains": "2024-02-06 20:32:18 +0100",
       "savanna": "2024-02-10 01:10:28 +0100",
+      "jungle_hills": "2024-02-11 22:00:22 +0100",
+      "jungle_edge": "2024-02-11 21:59:43 +0100",
+      "mesa_clear_rock": "2024-02-11 21:41:38 +0100",
+      "savanna_rock": "2024-02-11 21:23:02 +0100",
+      "ice_mountains": "2024-02-11 21:50:11 +0100",
       "taiga": "2024-02-08 22:25:46 +0100",
       "taiga_hills": "2024-02-08 22:20:21 +0100",
+      "taiga_cold": "2024-02-11 21:48:57 +0100",
       "ocean": "2024-02-11 17:47:48 +0100",
       "extreme_hills": "2024-02-06 20:23:33 +0100",
       "roofed_forest": "2024-02-06 20:34:25 +0100",
       "river": "2024-02-06 20:22:37 +0100",
+      "jungle": "2024-02-11 22:00:20 +0100",
       "desert": "2024-02-10 20:45:57 +0100"
     },
     "done": false
@@ -1782,9 +1933,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-02-11 21:21:30 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_jacaranda": {
     "criteria": {
       "entered_water": "2024-02-06 20:22:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-11 20:57:14 +0100"
     },
     "done": true
   },
@@ -1914,9 +2077,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-11 20:57:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_red_flower": "2024-02-07 22:05:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-02-11 20:57:14 +0100"
     },
     "done": true
   },
@@ -1941,6 +2116,18 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-02-06 20:23:32 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/red_dye_from_rafflesia": {
+    "criteria": {
+      "has_flower": "2024-02-11 21:55:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-02-11 20:33:20 +0100"
     },
     "done": true
   },

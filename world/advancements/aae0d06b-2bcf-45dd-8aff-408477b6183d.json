@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-02-11 22:43:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-02-06 19:22:11 +0100"
@@ -399,7 +405,8 @@
       "mutton": "2024-02-06 19:23:37 +0100",
       "golden_apple": "2024-02-07 21:16:18 +0100",
       "rotten_flesh": "2024-02-06 20:29:40 +0100",
-      "golden_carrot": "2024-02-07 20:29:08 +0100"
+      "golden_carrot": "2024-02-07 20:29:08 +0100",
+      "carrot": "2024-02-11 22:49:57 +0100"
     },
     "done": false
   },
@@ -556,6 +563,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-02-06 20:13:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-02-11 22:41:27 +0100"
     },
     "done": true
   },
