@@ -257,9 +257,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/white_dye_from_white_anemone": {
+    "criteria": {
+      "has_flower": "2024-02-12 22:38:48 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/fir_planks": {
     "criteria": {
       "has_log": "2024-02-11 13:35:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-02-12 22:28:55 +0100"
     },
     "done": true
   },
@@ -272,6 +284,12 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2024-02-11 00:17:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-02-12 20:27:47 +0100"
     },
     "done": true
   },
@@ -595,6 +613,7 @@
       "skeleton": "2024-02-06 20:10:24 +0100",
       "silverfish": "2024-02-06 20:40:44 +0100",
       "zombie": "2024-02-06 20:40:46 +0100",
+      "cave_spider": "2024-02-12 22:30:27 +0100",
       "spider": "2024-02-06 21:25:48 +0100",
       "ghast": "2024-02-11 13:57:58 +0100",
       "creeper": "2024-02-08 18:20:32 +0100",
@@ -1521,6 +1540,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_flower": "2024-02-12 22:40:09 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/eucalyptus_fence": {
     "criteria": {
       "has_planks": "2024-02-11 22:36:18 +0100"
@@ -1818,6 +1843,12 @@
   "biomesoplenty:recipes/transportation/boat_magic": {
     "criteria": {
       "entered_water": "2024-02-06 19:59:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2024-02-12 20:27:47 +0100"
     },
     "done": true
   },
@@ -2173,6 +2204,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2024-02-10 21:12:34 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
+    "criteria": {
+      "has_flower": "2024-02-12 22:28:06 +0100"
     },
     "done": true
   },
