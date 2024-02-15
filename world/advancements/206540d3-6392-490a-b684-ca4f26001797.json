@@ -717,6 +717,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "chaparral": "2024-02-15 19:20:38 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2024-02-06 19:39:34 +0100"
@@ -751,9 +757,12 @@
     "criteria": {
       "forest": "2024-02-06 19:24:32 +0100",
       "swampland": "2024-02-06 19:51:10 +0100",
+      "birch_forest": "2024-02-15 19:17:49 +0100",
       "extreme_hills_with_trees": "2024-02-06 20:12:31 +0100",
       "forest_hills": "2024-02-06 19:53:41 +0100",
       "plains": "2024-02-06 20:31:22 +0100",
+      "savanna": "2024-02-15 19:19:50 +0100",
+      "savanna_rock": "2024-02-15 19:20:05 +0100",
       "extreme_hills": "2024-02-06 20:12:12 +0100",
       "roofed_forest": "2024-02-06 20:53:03 +0100",
       "river": "2024-02-06 20:52:59 +0100"

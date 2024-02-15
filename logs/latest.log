@@ -1,15 +1,16 @@
-[00:34:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: fabianronzani lost connection: Disconnected
-[00:34:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fabianronzani left the game
-[00:35:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[00:35:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[00:35:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[00:35:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[00:35:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[00:35:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
-[00:35:05] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
-[00:35:05] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -9999
-[00:35:05] [Server thread/INFO] [FML]: Unloading dimension 0
-[00:35:05] [Server thread/INFO] [FML]: Unloading dimension -9999
-[00:35:05] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[00:35:05] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[00:35:05] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:09:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[00:45:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: fabianronzani lost connection: Disconnected
+[00:45:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fabianronzani left the game
+[00:45:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[00:45:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:45:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:45:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:45:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[00:45:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[00:45:33] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[00:45:33] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -9999
+[00:45:33] [Server thread/INFO] [FML]: Unloading dimension 0
+[00:45:33] [Server thread/INFO] [FML]: Unloading dimension -9999
+[00:45:33] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:45:33] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:45:33] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
