@@ -690,9 +690,16 @@
       "prairie": "2024-02-12 19:11:27 +0100",
       "tundra": "2024-02-10 20:53:03 +0100",
       "gravel_beach": "2024-02-11 21:54:44 +0100",
+      "grove": "2024-02-16 21:24:59 +0100",
       "brushland": "2024-02-09 22:29:15 +0100"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/misc/lime_dye_from_glowshroom": {
+    "criteria": {
+      "has_flower": "2024-02-16 20:28:16 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
