@@ -1,506 +1,302 @@
-[15:48:56] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[15:48:56] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[15:48:56] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[15:48:56] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[15:48:56] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_401, running on Windows 11:amd64:10.0, installed at C:\Program Files\Java\jre-1.8
-[15:48:57] [main/INFO] [FML]: Searching D:\Servers\Minecraft\IC2server\.\mods for mods
-[15:48:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[15:48:57] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[15:48:57] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[15:48:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[15:48:57] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[15:48:57] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
-[15:48:57] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[15:48:57] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[15:48:57] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
-[15:48:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[15:48:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[15:48:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[15:48:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[15:48:57] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:48:58] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[15:48:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:48:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:48:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:48:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[15:48:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:48:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[15:48:58] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[15:48:58] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[15:48:58] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
-[15:48:58] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
-[15:49:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[15:49:00] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[15:49:00] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[15:49:00] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[15:49:00] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[15:49:00] [Server thread/INFO] [FML]: Searching D:\Servers\Minecraft\IC2server\.\mods for mods
-[15:49:00] [Server thread/INFO] [FML]: Disabling mod ambientsounds it is client side only.
-[15:49:00] [Server thread/WARN] [FML]: Mod bettermineshafts is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.2.1
-[15:49:00] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
-[15:49:01] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
-[15:49:01] [Server thread/INFO] [FML]: Disabling mod jeresources it is client side only.
-[15:49:01] [Server thread/WARN] [FML]: Mod patchouli is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0-23.6
-[15:49:01] [Server thread/INFO] [FML]: Disabling mod soundfilters it is client side only.
-[15:49:01] [Server thread/WARN] [FML]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
-[15:49:01] [Server thread/INFO] [FML]: Forge Mod Loader has identified 36 mods to load
-[15:49:01] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[15:49:01] [Server thread/WARN] [FML]: Missing English translation for appleskin: assets/appleskin/lang/en_us.lang
-[15:49:01] [Server thread/WARN] [FML]: Missing English translation for bettercaves: assets/bettercaves/lang/en_us.lang
-[15:49:01] [Server thread/WARN] [FML]: Missing English translation for bettermineshafts: assets/bettermineshafts/lang/en_us.lang
-[15:49:01] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
-[15:49:01] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
-[15:49:01] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
-[15:49:01] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
-[15:49:01] [Server thread/WARN] [FML]: Missing English translation for teslacorelib_registries: assets/teslacorelib_registries/lang/en_us.lang
-[15:49:01] [Server thread/INFO] [FML]: FML has found a non-mod file AmbientSounds_v3.1.7_mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[15:49:01] [Server thread/INFO] [FML]: FML has found a non-mod file CTM-MC1.12.2-1.0.2.31.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[15:49:01] [Server thread/INFO] [FML]: FML has found a non-mod file JustEnoughResources-1.12.2-0.9.2.60.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[15:49:01] [Server thread/INFO] [FML]: FML has found a non-mod file SoundFilters-0.12.1_for_1.12.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[15:49:02] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, appleskin, aquaculture, baubles, bettercaves, bettermineshafts, biomesoplenty, botania, clumps, creativecore, extrautils2, forgelin, geckolib3, waila, ic2, industrialforegoing, ironchest, jei, journeymap, mantle, mysticallib, mysticalworld, oreexcavation, patchouli, tconstruct, teslacorelib, teslacorelib_registries, thaumcraft, tcomplement, wawla, waystones, betteranimalsplus] at CLIENT
-[15:49:02] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, appleskin, aquaculture, baubles, bettercaves, bettermineshafts, biomesoplenty, botania, clumps, creativecore, extrautils2, forgelin, geckolib3, waila, ic2, industrialforegoing, ironchest, jei, journeymap, mantle, mysticallib, mysticalworld, oreexcavation, patchouli, tconstruct, teslacorelib, teslacorelib_registries, thaumcraft, tcomplement, wawla, waystones, betteranimalsplus] at SERVER
-[15:49:02] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselIntegration; missing dependency: chisel
-[15:49:02] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
-[15:49:02] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
-[15:49:02] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
-[15:49:02] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse quarkIntegration; missing dependency: quark
-[15:49:02] [Server thread/INFO] [tconstruct]: Preparing to take over the world
-[15:49:03] [Server thread/WARN] [teslacorelib]: Annotated class 'net.ndrei.teslacorelib.blocks.multipart.MultiPartBlockEvents' not found!
-[15:49:03] [Server thread/INFO] [Pulsar-tcomplement]: Skipping Pulse CeramicsPlugin; missing dependency: ceramics
-[15:49:03] [Server thread/INFO] [Pulsar-tcomplement]: Skipping Pulse ChiselPlugin; missing dependency: chisel
-[15:49:03] [Server thread/INFO] [Pulsar-tcomplement]: Skipping Pulse ExNihiloPlugin; missing dependency: exnihilocreatio
-[15:49:03] [Server thread/INFO] [Pulsar-tcomplement]: Skipping Pulse ToolLevelingPlugin; missing dependency: tinkertoolleveling
-[15:49:03] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[15:49:03] [Server thread/INFO] [FML]: Found 1245 ObjectHolder annotations
-[15:49:03] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[15:49:03] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[15:49:04] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[15:49:04] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Starting version check at https://raw.githubusercontent.com/Buuz135/Industrial-Foregoing/master/update.json
-[15:49:04] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Found status: BETA Target: null
-[15:49:04] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[15:49:06] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `xutesrtile`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [tconstruct-API]: Itemstack 1xitem.null@17 cannot represent material xu_evil_metal since it is not associated with the material!
-[15:49:06] [Server thread/WARN] [tconstruct-API]: Itemstack 1xitem.null@12 cannot represent material xu_enchanted_metal since it is not associated with the material!
-[15:49:06] [Server thread/WARN] [tconstruct-API]: Itemstack 1xitem.null@11 cannot represent material xu_demonic_metal since it is not associated with the material!
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilesoundmuffler`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcan`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcanfluids`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcanenergy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepassivegenerator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowerhandcrank`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilesupermobspawner`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepoweroverload`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileresonator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilespotlight`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilescreen`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletransferholder`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileplayerchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilechunkloader`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileindexer`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecrafter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilescanner`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemine`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileuse`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank16`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank256`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank4096`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank65536`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tankinf`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemachineprovider`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemachinereceiver`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileteleporter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowertransmitter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowerbattery`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilequarryproxy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilequarry`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilelargishchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileminchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilerainbowgenerator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativechest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativeenergy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativeharvest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileterraformer`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileterraformerclimograph`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileanalogcrafter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:06] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileinteractionproxy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 352 out of 352 recipes for shaped recipes
-[15:49:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 79 out of 79 recipes for shapeless recipes
-[15:49:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
-[15:49:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
-[15:49:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
-[15:49:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
-[15:49:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
-[15:49:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 12 out of 12 recipes for extractor recipes
-[15:49:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 74 out of 74 recipes for macerator recipes
-[15:49:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
-[15:49:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
-[15:49:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
-[15:49:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
-[15:49:09] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.craftingstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.stenciltable`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partbuilder`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.patternchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolforge`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_controller`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_component`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.faucet`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_basin`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_drain`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.seared_furnace`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tinker_tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.item_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.drying_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.wooden_hopper`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.slime_channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `conveyor_tile`, expected `industrialforegoing`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:10] [Server thread/INFO] [FML]: Applying holder lookups
-[15:49:10] [Server thread/INFO] [FML]: Holder lookups applied
-[15:49:11] [Server thread/INFO] [FML]: Applying holder lookups
-[15:49:11] [Server thread/INFO] [FML]: Holder lookups applied
-[15:49:11] [Server thread/INFO] [FML]: Applying holder lookups
-[15:49:11] [Server thread/INFO] [FML]: Holder lookups applied
-[15:49:11] [Server thread/INFO] [FML]: Applying holder lookups
-[15:49:11] [Server thread/INFO] [FML]: Holder lookups applied
-[15:49:11] [Server thread/INFO] [FML]: Injecting itemstacks
-[15:49:11] [Server thread/INFO] [FML]: Itemstack injection complete
-[15:49:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[15:49:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[15:49:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[15:49:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on 192.168.0.40:25565
-[15:49:11] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
-[15:49:12] [Server thread/INFO] [THAUMCRAFT]: Checking for mod & oredict compatibilities
-[15:49:12] [Server thread/INFO] [THAUMCRAFT]: Adding entities to MFR safari net blacklist.
-[15:49:12] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `slime`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:12] [Server thread/INFO] [FML]: Applying holder lookups
-[15:49:12] [Server thread/INFO] [FML]: Holder lookups applied
-[15:49:12] [Server thread/INFO] [betteranimalsplus]: Overspawning lammergeiers...
-[15:49:12] [Server thread/INFO] [FML]: Injecting itemstacks
-[15:49:12] [Server thread/INFO] [FML]: Itemstack injection complete
-[15:49:12] [Server thread/INFO] [THAUMCRAFT]: Loaded 22 research entries from thaumcraft:research/alchemy
-[15:49:12] [Server thread/INFO] [THAUMCRAFT]: Loaded 5 research entries from thaumcraft:research/eldritch
-[15:49:12] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/basics
-[15:49:12] [Server thread/INFO] [THAUMCRAFT]: Loaded 23 research entries from thaumcraft:research/auromancy
-[15:49:12] [Server thread/INFO] [THAUMCRAFT]: Loaded 12 research entries from thaumcraft:research/scans
-[15:49:12] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/artifice
-[15:49:12] [Server thread/INFO] [THAUMCRAFT]: Loaded 17 research entries from thaumcraft:research/infusion
-[15:49:12] [Server thread/INFO] [THAUMCRAFT]: Loaded 29 research entries from thaumcraft:research/golemancy
-[15:49:13] [Server thread/INFO] [botania]: The Lexica Botania has 26889 words.
-[15:49:13] [Server thread/INFO] [tconstruct-TinkerSmeltery]: Started adding oredict melting recipes
-[15:49:13] [Server thread/INFO] [tconstruct-TinkerSmeltery]: Oredict melting recipes finished in 484.4621 ms
-[15:49:13] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(-4, -8) invalid, -8 smaller than -4
-[15:49:13] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
-[15:49:13] [Server thread/INFO] [ic2.General]: ic2 version 2.8.170-ex112 loaded.
-[15:49:13] [Server thread/INFO] [betteranimalsplus]: Crazy bird creation complete.
-[15:49:13] [Server thread/INFO] [Waila]: Starting Waila...
-[15:49:13] [Server thread/INFO] [Waila]: Gathering annotated plugins...
-[15:49:13] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
-[15:49:13] [Server thread/INFO] [Waila]: Registering plugins...
-[15:49:13] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
-[15:49:13] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
-[15:49:13] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[15:49:13] [Server thread/INFO] [Waila]: Registering plugin at net.blay09.mods.waystones.compat.WailaProvider
-[15:49:13] [Server thread/INFO] [Waila]: Registering plugin at net.darkhax.wawla.engine.waila.EntityProvider
-[15:49:13] [Server thread/INFO] [Waila]: Registering plugin at net.darkhax.wawla.engine.waila.TileProvider
-[15:49:13] [Server thread/INFO] [Waila]: Registering plugin at slimeknights.tconstruct.plugin.waila.WailaRegistrar
-[15:49:13] [Server thread/INFO] [Waila]: Starting Waila took 28.82 ms
-[15:49:13] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 36 mods
-[15:49:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[15:49:13] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[15:49:14] [Server thread/INFO] [FML]: Applying holder lookups
-[15:49:14] [Server thread/INFO] [FML]: Holder lookups applied
-[15:49:14] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
-[15:49:14] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
-[15:49:14] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:89]: ChunkGeneratorOverworldBOP json: 
-[15:49:14] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:96]: ChunkGeneratorOverworldBOP settings: {"landScheme":"vanilla","tempScheme":"medium_zones","rainScheme":"medium_zones","biomeSize":"medium","amplitude":1.0,"generateBopOre":true,"generatePoisonIvy":false,"generateBerryBushes":true,"generateThorns":true,"generateQuicksand":true,"generateLiquidPoison":true,"generateHotSprings":true,"generateNetherHives":true,"generateEndFeatures":true,"mainNoiseScaleX":80.0,"mainNoiseScaleY":160.0,"mainNoiseScaleZ":80.0,"coordinateScale":684.412,"heightScale":684.412,"upperLimitScale":512.0,"lowerLimitScale":512.0}
-[15:49:14] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@53cc48a1)
-[15:49:14] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 781 advancements
-[15:49:14] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 0
-[15:49:14] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@53cc48a1)
-[15:49:14] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 1
-[15:49:14] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
-[15:49:14] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@53cc48a1)
-[15:49:14] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
-[15:49:14] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
-[15:49:14] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
-[15:49:14] [Server thread/INFO] [FML]: Loading dimension -11325 (world) (net.minecraft.server.dedicated.DedicatedServer@53cc48a1)
-[15:49:14] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -11325
-[15:49:14] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
-[15:49:14] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
-[15:49:14] [Server thread/INFO] [FML]: Loading dimension -9999 (world) (net.minecraft.server.dedicated.DedicatedServer@53cc48a1)
-[15:49:14] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -9999
-[15:49:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[15:49:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (1,637s)! For help, type "help" or "?"
-[15:49:15] [Thread-4/INFO] [THAUMCRAFT]: Starting aura thread for dim 0
-[15:49:15] [Thread-5/INFO] [THAUMCRAFT]: Starting aura thread for dim 1
-[15:49:15] [Thread-6/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
-[15:49:15] [Thread-7/INFO] [THAUMCRAFT]: Starting aura thread for dim -11325
-[15:49:15] [Thread-8/INFO] [THAUMCRAFT]: Starting aura thread for dim -9999
-[15:49:15] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 1
-[15:49:15] [Server thread/INFO] [FML]: Unloading dimension 1
-[15:49:15] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
-[15:49:15] [Server thread/INFO] [FML]: Unloading dimension -1
-[15:49:15] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -11325
-[15:49:15] [Server thread/INFO] [FML]: Unloading dimension -11325
-[15:49:17] [Thread-5/INFO] [THAUMCRAFT]: Stopping aura thread for dim 1
-[15:49:17] [Thread-6/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
-[15:49:17] [Thread-7/INFO] [THAUMCRAFT]: Stopping aura thread for dim -11325
-[16:30:06] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player fabianronzani is 5be8fc7e-8a29-43ce-8393-842320e5c17b
-[16:30:06] [Netty Server IO #5/INFO] [FML]: Client protocol version 2
-[16:30:06] [Netty Server IO #5/INFO] [FML]: Client attempting to join with 40 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,industrialforegoing@1.12.2-1.12.2,tcomplement@1.12.2-0.4.3,ambientsounds@3.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.301,botania@r1.10-364,teslacorelib_registries@1.0.18,extrautils2@1.0,wawla@2.6.275,bettercaves@1.12.2,mantle@1.12-1.3.3.55,ic2@2.8.170-ex112,patchouli@1.0-23.6,waystones@4.1.0,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p1,teslacorelib@1.0.18,oreexcavation@1.4.150,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,appleskin@1.0.14,waila@1.8.26,aquaculture@1.6.8,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,mysticalworld@1.12.2-1.11.0,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,bettermineshafts@1.12.2-2.2.1,soundfilters@0.12.1_for_1.12,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
-[16:30:06] [Netty Server IO #5/INFO] [journeymap]: CLIENT
-[16:30:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[16:30:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: fabianronzani[/79.160.26.156:5260] logged in with entity id 180 at (269.58219341260644, 68.0, 732.4140197444171)
-[16:30:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fabianronzani joined the game
-[16:30:07] [Server thread/INFO] [Waila]: Player EntityPlayerMP['fabianronzani'/180, l='world', x=269,58, y=68,00, z=732,41] connected. Sending ping
-[16:43:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID f766631c-21a0-40c4-a7d6-23885b40ab0a
-[16:55:59] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID b8008ae2-b147-48d3-9e5b-8a8e67f6e6a7
-[17:04:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID ffde8c34-5936-45ab-b6ad-0c938a997718
-[17:07:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID eae1ba94-ba0b-4aaf-8325-e05a6629388f
-[17:08:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: fabianronzani lost connection: Disconnected
-[17:08:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fabianronzani left the game
-[18:10:13] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Bass_Gamer is b02a2d7b-af64-46cd-8a78-92568e37d963
-[18:10:14] [Netty Server IO #14/INFO] [FML]: Client protocol version 2
-[18:10:14] [Netty Server IO #14/INFO] [FML]: Client attempting to join with 40 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,industrialforegoing@1.12.2-1.12.2,tcomplement@1.12.2-0.4.3,ambientsounds@3.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.301,botania@r1.10-364,teslacorelib_registries@1.0.18,extrautils2@1.0,wawla@2.6.275,bettercaves@1.12.2,mantle@1.12-1.3.3.55,ic2@2.8.170-ex112,patchouli@1.0-23.6,waystones@4.1.0,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p1,teslacorelib@1.0.18,oreexcavation@1.4.150,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,appleskin@1.0.14,waila@1.8.26,aquaculture@1.6.8,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,mysticalworld@1.12.2-1.11.0,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,bettermineshafts@1.12.2-2.2.1,soundfilters@0.12.1_for_1.12,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
-[18:10:14] [Netty Server IO #14/INFO] [journeymap]: CLIENT
-[18:10:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[18:10:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bass_Gamer[/158.248.118.10:18001] logged in with entity id 188761 at (190.42503442668175, 87.0, 625.4462526539439)
-[18:10:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bass_Gamer joined the game
-[18:10:15] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Bass_Gamer'/188761, l='world', x=190,43, y=87,00, z=625,45] connected. Sending ping
-[18:10:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> yoyoyo
-[18:11:16] [Server thread/INFO] [ic2.PlayerActivity]: Player Bass_Gamer/b02a2d7b-af64-46cd-8a78-92568e37d963 used a wrench to remove the block ic2:te[facing=down,material=ic2_material_machine,transparent=false,type=mfsu] (te ElectricMFSU) at dim 0: 195/94/617.
-[18:11:28] [Server thread/INFO] [ic2.PlayerActivity]: Player Bass_Gamer/b02a2d7b-af64-46cd-8a78-92568e37d963 used a wrench to remove the block ic2:te[facing=west,material=ic2_material_machine,transparent=false,type=hv_transformer] (te TransformerHV) at dim 0: 200/89/618.
-[18:11:29] [Server thread/INFO] [ic2.PlayerActivity]: Player Bass_Gamer/b02a2d7b-af64-46cd-8a78-92568e37d963 used a wrench to remove the block ic2:te[facing=up,material=ic2_material_machine,transparent=false,type=mv_transformer] (te TransformerMV) at dim 0: 200/88/618.
-[18:18:27] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
-[18:18:27] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
-[18:18:27] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
-[18:18:27] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
-[18:18:27] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
-[18:18:27] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
-[18:18:36] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-42, -29] in dimension 0 (overworld) while populating chunk [-42, -28], causing cascading worldgen lag.
-[18:18:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[18:18:36] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-43, -28] in dimension 0 (overworld) while populating chunk [-42, -28], causing cascading worldgen lag.
-[18:18:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[18:19:00] [Server thread/WARN] [FML]: Mystical World loaded a new chunk [-17, -37] in dimension 0 (overworld) while populating chunk [-16, -37], causing cascading worldgen lag.
-[18:19:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[18:19:02] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [-23, -41] in dimension 0 (overworld) while populating chunk [-23, -40], causing cascading worldgen lag.
-[18:19:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[18:20:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bass_Gamer moved too quickly! 6.773082083456748,-8.084744798620918,-1.1096329266661087
-[18:20:05] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [17, -42] in dimension 0 (overworld) while populating chunk [17, -41], causing cascading worldgen lag.
-[18:20:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[18:20:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bass_Gamer moved too quickly! 6.270730404035703,-7.914784422587076,-3.104089116389673
-[18:20:51] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bass_Gamer moved too quickly! 8.638128658232176,-5.69562315274014,1.1328516998039504
-[18:21:22] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [68, -29] in dimension 0 (overworld) while populating chunk [68, -28], causing cascading worldgen lag.
-[18:21:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[18:21:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bass_Gamer moved too quickly! 8.72435730641314,5.400000214576721,-1.2296038433430567
-[18:21:32] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [69, -42] in dimension 0 (overworld) while populating chunk [69, -41], causing cascading worldgen lag.
-[18:21:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[18:21:35] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [49, -44] in dimension 0 (overworld) while populating chunk [50, -44], causing cascading worldgen lag.
-[18:21:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[18:24:05] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [105, -50] in dimension 0 (overworld) while populating chunk [105, -49], causing cascading worldgen lag.
-[18:24:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[18:24:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bass_Gamer moved too quickly! 7.158768311335052,-4.028141505285333,5.76731735049259
-[18:24:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bass_Gamer moved too quickly! 3.7864138042900777,-8.843215291472006,-4.755925500956664
-[18:25:51] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [113, -7] in dimension 0 (overworld) while populating chunk [114, -7], causing cascading worldgen lag.
-[18:25:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[18:25:51] [Server thread/WARN] [FML]: Thaumcraft loaded a new chunk [112, -7] in dimension 0 (overworld) while populating chunk [114, -7], causing cascading worldgen lag.
-[18:25:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[18:26:04] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4045ms behind, skipping 80 tick(s)
-[18:26:22] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bass_Gamer moved too quickly! 8.599186287305201,5.400000214576721,1.6454312327490541
-[18:26:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bass_Gamer moved too quickly! -8.885381374057943,5.400000214576721,1.6409728093906324
-[18:31:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bass_Gamer lost connection: Disconnected
-[18:31:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bass_Gamer left the game
-[18:57:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: There are 0/999999 players online:
-[18:57:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 
-[18:59:26] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Lartrax is 1100815f-2b8e-409b-8848-87ef6a6948f5
-[18:59:26] [Netty Server IO #20/INFO] [FML]: Client protocol version 2
-[18:59:26] [Netty Server IO #20/INFO] [FML]: Client attempting to join with 40 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,industrialforegoing@1.12.2-1.12.2,tcomplement@1.12.2-0.4.3,ambientsounds@3.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.301,botania@r1.10-364,teslacorelib_registries@1.0.18,extrautils2@1.0,wawla@2.6.275,bettercaves@1.12.2,mantle@1.12-1.3.3.55,ic2@2.8.170-ex112,patchouli@1.0-23.6,waystones@4.1.0,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p1,teslacorelib@1.0.18,oreexcavation@1.4.150,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,appleskin@1.0.14,waila@1.8.26,aquaculture@1.6.8,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,mysticalworld@1.12.2-1.11.0,forge@14.23.5.2860,mysticallib@1.12.2-1.13.0,bettermineshafts@1.12.2-2.2.1,soundfilters@0.12.1_for_1.12,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
-[18:59:26] [Netty Server IO #20/INFO] [journeymap]: CLIENT
-[18:59:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[18:59:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lartrax[/192.168.0.40:50878] logged in with entity id 277388 at (310.71670455259857, 87.0, 695.0398795197638)
-[18:59:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lartrax joined the game
-[18:59:27] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lartrax'/277388, l='world', x=310,72, y=87,00, z=695,04] connected. Sending ping
-[19:20:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lartrax lost connection: Disconnected
-[19:20:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lartrax left the game
-[20:01:10] [User Authenticator #4/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Lartrax is 1100815f-2b8e-409b-8848-87ef6a6948f5
-[20:01:10] [Netty Server IO #34/INFO] [FML]: Client protocol version 2
-[20:01:10] [Netty Server IO #34/INFO] [FML]: Client attempting to join with 40 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,industrialforegoing@1.12.2-1.12.2,tcomplement@1.12.2-0.4.3,ambientsounds@3.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.301,botania@r1.10-364,teslacorelib_registries@1.0.18,extrautils2@1.0,wawla@2.6.275,bettercaves@1.12.2,mantle@1.12-1.3.3.55,ic2@2.8.170-ex112,patchouli@1.0-23.6,waystones@4.1.0,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p1,teslacorelib@1.0.18,oreexcavation@1.4.150,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,appleskin@1.0.14,waila@1.8.26,aquaculture@1.6.8,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,mysticalworld@1.12.2-1.11.0,forge@14.23.5.2860,mysticallib@1.12.2-1.13.0,bettermineshafts@1.12.2-2.2.1,soundfilters@0.12.1_for_1.12,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
-[20:01:10] [Netty Server IO #34/INFO] [journeymap]: CLIENT
-[20:01:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:01:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lartrax[/192.168.0.40:51037] logged in with entity id 380695 at (274.19570933181024, 71.0, 695.7809531493411)
-[20:01:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lartrax joined the game
-[20:01:11] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lartrax'/380695, l='world', x=274,20, y=71,00, z=695,78] connected. Sending ping
-[20:03:04] [User Authenticator #5/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player fabianronzani is 5be8fc7e-8a29-43ce-8393-842320e5c17b
-[20:03:04] [Netty Server IO #37/INFO] [FML]: Client protocol version 2
-[20:03:04] [Netty Server IO #37/INFO] [FML]: Client attempting to join with 40 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,industrialforegoing@1.12.2-1.12.2,tcomplement@1.12.2-0.4.3,ambientsounds@3.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.301,botania@r1.10-364,teslacorelib_registries@1.0.18,extrautils2@1.0,wawla@2.6.275,bettercaves@1.12.2,mantle@1.12-1.3.3.55,ic2@2.8.170-ex112,patchouli@1.0-23.6,waystones@4.1.0,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p1,teslacorelib@1.0.18,oreexcavation@1.4.150,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,appleskin@1.0.14,waila@1.8.26,aquaculture@1.6.8,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,mysticalworld@1.12.2-1.11.0,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,bettermineshafts@1.12.2-2.2.1,soundfilters@0.12.1_for_1.12,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
-[20:03:04] [Netty Server IO #37/INFO] [journeymap]: CLIENT
-[20:03:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:03:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: fabianronzani[/79.160.26.156:6021] logged in with entity id 390319 at (65.8000000119209, 46.5, 604.3050452988828)
-[20:03:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fabianronzani joined the game
-[20:03:05] [Server thread/INFO] [Waila]: Player EntityPlayerMP['fabianronzani'/390319, l='world', x=65,80, y=46,50, z=604,31] connected. Sending ping
-[20:03:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lartrax> yo
-[20:03:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> he
-[20:03:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> i
-[20:05:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> kor e du
-[20:05:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lartrax> har du uprgada
-[20:05:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> ye
-[20:06:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> se på denna
-[20:06:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> 2m eu
-[20:06:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> jetpack
-[20:06:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lartrax> koss
-[20:06:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> men kan kje binda an t chestplaten
-[20:06:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> eg lagde an
-[20:07:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lartrax> trodde dei hadde 30k
-[20:07:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> lagde energypack
-[20:07:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> med sånne energy crystals
-[20:09:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> what
-[20:09:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> prøv å leave
-[20:09:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lartrax lost connection: Disconnected
-[20:09:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lartrax left the game
-[20:09:35] [User Authenticator #6/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Lartrax is 1100815f-2b8e-409b-8848-87ef6a6948f5
-[20:09:35] [Netty Server IO #42/INFO] [FML]: Client protocol version 2
-[20:09:35] [Netty Server IO #42/INFO] [FML]: Client attempting to join with 40 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,industrialforegoing@1.12.2-1.12.2,tcomplement@1.12.2-0.4.3,ambientsounds@3.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.301,botania@r1.10-364,teslacorelib_registries@1.0.18,extrautils2@1.0,wawla@2.6.275,bettercaves@1.12.2,mantle@1.12-1.3.3.55,ic2@2.8.170-ex112,patchouli@1.0-23.6,waystones@4.1.0,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p1,teslacorelib@1.0.18,oreexcavation@1.4.150,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,appleskin@1.0.14,waila@1.8.26,aquaculture@1.6.8,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,mysticalworld@1.12.2-1.11.0,forge@14.23.5.2860,mysticallib@1.12.2-1.13.0,bettermineshafts@1.12.2-2.2.1,soundfilters@0.12.1_for_1.12,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
-[20:09:35] [Netty Server IO #42/INFO] [journeymap]: CLIENT
-[20:09:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:09:35] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:betteranimalsplus.zotzpyre
-[20:09:35] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lartrax[/192.168.0.40:51112] logged in with entity id 423264 at (265.56406236037344, 74.0, 707.9104463803835)
-[20:09:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lartrax joined the game
-[20:09:35] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lartrax'/423264, l='world', x=265,56, y=74,00, z=707,91] connected. Sending ping
-[20:09:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> an leava med deg
-[20:09:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> og kom aldri tebake :(
-[20:12:47] [User Authenticator #7/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Bass_Gamer is b02a2d7b-af64-46cd-8a78-92568e37d963
-[20:12:48] [Netty Server IO #45/INFO] [FML]: Client protocol version 2
-[20:12:48] [Netty Server IO #45/INFO] [FML]: Client attempting to join with 40 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,industrialforegoing@1.12.2-1.12.2,tcomplement@1.12.2-0.4.3,ambientsounds@3.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.301,botania@r1.10-364,teslacorelib_registries@1.0.18,extrautils2@1.0,wawla@2.6.275,bettercaves@1.12.2,mantle@1.12-1.3.3.55,ic2@2.8.170-ex112,patchouli@1.0-23.6,waystones@4.1.0,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p1,teslacorelib@1.0.18,oreexcavation@1.4.150,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,appleskin@1.0.14,waila@1.8.26,aquaculture@1.6.8,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,mysticalworld@1.12.2-1.11.0,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,bettermineshafts@1.12.2-2.2.1,soundfilters@0.12.1_for_1.12,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
-[20:12:48] [Netty Server IO #45/INFO] [journeymap]: CLIENT
-[20:12:49] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:12:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bass_Gamer[/158.248.118.10:51340] logged in with entity id 439013 at (193.6602271965996, 74.0, 623.9211728998274)
-[20:12:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bass_Gamer joined the game
-[20:12:49] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Bass_Gamer'/439013, l='world', x=193,66, y=74,00, z=623,92] connected. Sending ping
-[20:12:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lartrax> hola
-[20:13:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> guten abend
-[20:13:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> gluten
-[20:13:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> ..
-[20:33:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> lartrax kan du adda electricraft?
-[20:33:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lartrax> sure
-[20:33:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> nå?
-[20:34:54] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
-[20:34:54] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@53cc48a1)
-[20:34:54] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
-[20:34:55] [Thread-55/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
-[20:34:55] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: fabianronzani moved too quickly! -213.4149559747512,9.0,-598.9070420981476
-[20:35:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lartrax lost connection: Disconnected
-[20:35:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lartrax left the game
-[20:37:08] [User Authenticator #8/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Lartrax is 1100815f-2b8e-409b-8848-87ef6a6948f5
-[20:37:08] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
-[20:37:08] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 40 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,industrialforegoing@1.12.2-1.12.2,tcomplement@1.12.2-0.4.3,ambientsounds@3.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.301,botania@r1.10-364,teslacorelib_registries@1.0.18,extrautils2@1.0,wawla@2.6.275,bettercaves@1.12.2,mantle@1.12-1.3.3.55,ic2@2.8.170-ex112,patchouli@1.0-23.6,waystones@4.1.0,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p1,teslacorelib@1.0.18,oreexcavation@1.4.150,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,appleskin@1.0.14,waila@1.8.26,aquaculture@1.6.8,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,mysticalworld@1.12.2-1.11.0,forge@14.23.5.2860,mysticallib@1.12.2-1.13.0,bettermineshafts@1.12.2-2.2.1,soundfilters@0.12.1_for_1.12,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
-[20:37:08] [Netty Server IO #1/INFO] [journeymap]: CLIENT
-[20:37:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:37:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lartrax[/192.168.0.40:51189] logged in with entity id 570261 at (612.4407588311517, 17.0, 866.5593053294526)
-[20:37:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lartrax joined the game
-[20:37:09] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lartrax'/570261, l='world', x=612,44, y=17,00, z=866,56] connected. Sending ping
-[20:37:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> ait, stikke og spele league. kjeme nok tebake seinare på kvelden da
-[20:37:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> snx
-[20:37:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bass_Gamer lost connection: Disconnected
-[20:37:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bass_Gamer left the game
-[20:39:48] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
-[20:39:49] [Server thread/INFO] [FML]: Unloading dimension -1
-[20:39:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: fabianronzani moved too quickly! 213.47351364899467,-9.0,598.8304051184562
-[20:39:49] [Thread-55/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
-[20:41:38] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
-[20:41:38] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@53cc48a1)
-[20:41:38] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
-[20:41:38] [Thread-57/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
-[20:41:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: fabianronzani moved too quickly! -214.26107625609148,9.0,-599.7848526943118
-[20:41:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: fabianronzani moved too quickly! -0.5634260103217663,-9.905530671144874,3.2052928992348484
-[20:49:12] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:54:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fabianronzani has made the advancement [Flesh and Blood]
-[20:55:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> edgy
-[20:59:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: fabianronzani moved wrongly!
-[21:05:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: fabianronzani moved wrongly!
-[21:08:25] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
-[21:08:26] [Server thread/INFO] [FML]: Unloading dimension -1
-[21:08:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: fabianronzani moved too quickly! 213.63383895092323,-9.0,599.0007584383058
-[21:08:26] [Thread-57/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
-[21:14:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> kos disenchante eg
-[21:14:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> d fins ikje grindstone
-[21:15:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lartrax> vet ikkje, tror dår e ein maskin som gjør d om t mana
-[21:23:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fabianronzani> d e ein som tar enchantment fra ting og legge det på bok men ikje no mer
-[21:29:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: fabianronzani lost connection: Disconnected
-[21:29:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fabianronzani left the game
-[21:55:40] [User Authenticator #9/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Bass_Gamer is b02a2d7b-af64-46cd-8a78-92568e37d963
-[21:55:40] [Netty Server IO #13/INFO] [FML]: Client protocol version 2
-[21:55:40] [Netty Server IO #13/INFO] [FML]: Client attempting to join with 40 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,industrialforegoing@1.12.2-1.12.2,tcomplement@1.12.2-0.4.3,ambientsounds@3.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.301,botania@r1.10-364,teslacorelib_registries@1.0.18,extrautils2@1.0,wawla@2.6.275,bettercaves@1.12.2,mantle@1.12-1.3.3.55,ic2@2.8.170-ex112,patchouli@1.0-23.6,waystones@4.1.0,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p1,teslacorelib@1.0.18,oreexcavation@1.4.150,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,appleskin@1.0.14,waila@1.8.26,aquaculture@1.6.8,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,mysticalworld@1.12.2-1.11.0,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,bettermineshafts@1.12.2-2.2.1,soundfilters@0.12.1_for_1.12,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
-[21:55:40] [Netty Server IO #13/INFO] [journeymap]: CLIENT
-[21:55:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:55:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bass_Gamer[/158.248.118.10:3250] logged in with entity id 913950 at (190.43452023880536, 74.0, 621.8608691739137)
-[21:55:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bass_Gamer joined the game
-[21:55:42] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Bass_Gamer'/913950, l='world', x=190,43, y=74,00, z=621,86] connected. Sending ping
-[21:56:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> yoyo
-[21:56:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lartrax> hei
-[22:05:06] [Server thread/INFO] [ic2.PlayerActivity]: Player Bass_Gamer/b02a2d7b-af64-46cd-8a78-92568e37d963 used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=solar_distiller] (te SolarDestiller) at dim 0: 188/79/629.
-[22:05:17] [Server thread/INFO] [ic2.PlayerActivity]: Player Bass_Gamer/b02a2d7b-af64-46cd-8a78-92568e37d963 used a wrench to remove the block ic2:te[facing=north,material=ic2_material_machine,transparent=false,type=steam_generator] (te SteamGenerator) at dim 0: 189/76/629.
-[22:05:50] [Server thread/INFO] [ic2.PlayerActivity]: Player Bass_Gamer/b02a2d7b-af64-46cd-8a78-92568e37d963 used a wrench to remove the block ic2:te[facing=north,material=ic2_material_machine,transparent=false,type=mv_transformer] (te TransformerMV) at dim 0: 189/79/625.
-[22:05:51] [Server thread/INFO] [ic2.PlayerActivity]: Player Bass_Gamer/b02a2d7b-af64-46cd-8a78-92568e37d963 used a wrench to remove the block ic2:te[facing=down,material=ic2_material_machine,transparent=false,type=hv_transformer] (te TransformerHV) at dim 0: 189/80/625.
-[22:05:51] [Server thread/INFO] [ic2.PlayerActivity]: Player Bass_Gamer/b02a2d7b-af64-46cd-8a78-92568e37d963 used a wrench to remove the block ic2:te[facing=north,material=ic2_material_machine,transparent=false,type=lv_transformer] (te TransformerLV) at dim 0: 189/79/626.
-[22:06:42] [Server thread/INFO] [ic2.PlayerActivity]: Player Bass_Gamer/b02a2d7b-af64-46cd-8a78-92568e37d963 used a wrench to remove the block ic2:te[facing=east,material=ic2_material_machine,transparent=false,type=extractor] (te Extractor) at dim 0: 189/78/627.
-[22:09:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bass_Gamer lost connection: Disconnected
-[22:09:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bass_Gamer left the game
-[22:09:50] [User Authenticator #10/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Bass_Gamer is b02a2d7b-af64-46cd-8a78-92568e37d963
-[22:09:50] [Netty Server IO #15/INFO] [FML]: Client protocol version 2
-[22:09:50] [Netty Server IO #15/INFO] [FML]: Client attempting to join with 40 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,industrialforegoing@1.12.2-1.12.2,tcomplement@1.12.2-0.4.3,ambientsounds@3.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.301,botania@r1.10-364,teslacorelib_registries@1.0.18,extrautils2@1.0,wawla@2.6.275,bettercaves@1.12.2,mantle@1.12-1.3.3.55,ic2@2.8.170-ex112,patchouli@1.0-23.6,waystones@4.1.0,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p1,teslacorelib@1.0.18,oreexcavation@1.4.150,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,appleskin@1.0.14,waila@1.8.26,aquaculture@1.6.8,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,mysticalworld@1.12.2-1.11.0,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,bettermineshafts@1.12.2-2.2.1,soundfilters@0.12.1_for_1.12,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
-[22:09:50] [Netty Server IO #15/INFO] [journeymap]: CLIENT
-[22:09:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[22:09:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Bass_Gamer[/158.248.118.10:18237] logged in with entity id 982978 at (191.4866567710463, 74.0, 629.6999999880791)
-[22:09:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bass_Gamer joined the game
-[22:09:51] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Bass_Gamer'/982978, l='world', x=191,49, y=74,00, z=629,70] connected. Sending ping
-[22:12:34] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2084ms behind, skipping 41 tick(s)
-[23:20:52] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Bass_Gamer moved wrongly!
-[23:31:44] [Server thread/INFO] [ic2.PlayerActivity]: Player Bass_Gamer/b02a2d7b-af64-46cd-8a78-92568e37d963 used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=matter_generator_active] (te Matter) at dim 0: 193/76/615.
-[23:31:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Lartrax> stikke å teste noe i kreativ
-[23:31:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lartrax lost connection: Disconnected
-[23:31:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lartrax left the game
-[23:31:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Bass_Gamer> AIT
-[23:32:04] [Server thread/INFO] [ic2.PlayerActivity]: Player Bass_Gamer/b02a2d7b-af64-46cd-8a78-92568e37d963 used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=matter_generator_active] (te Matter) at dim 0: 192/76/614.
-[23:32:56] [Server thread/INFO] [ic2.PlayerActivity]: Player Bass_Gamer/b02a2d7b-af64-46cd-8a78-92568e37d963 used a wrench to remove the block ic2:te[facing=south,material=ic2_material_machine,transparent=false,type=chunk_loader] (te Chunkloader) at dim 0: 192/77/614.
-[23:35:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: There are 1/999999 players online:
-[23:35:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bass_Gamer
-[23:47:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Bass_Gamer lost connection: Disconnected
-[23:47:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Bass_Gamer left the game
-[23:48:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: There are 0/999999 players online:
-[23:48:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 
-[23:48:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[23:48:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[23:48:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[23:48:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[23:48:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[23:48:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
-[23:48:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
-[23:48:55] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -9999
-[23:48:55] [Server thread/INFO] [FML]: Unloading dimension 0
-[23:48:55] [Server thread/INFO] [FML]: Unloading dimension -9999
-[23:48:55] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[23:48:55] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[23:48:55] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[10:07:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[10:07:48] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[10:07:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[10:07:48] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[10:07:48] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_401, running on Windows 11:amd64:10.0, installed at C:\Program Files\Java\jre-1.8
+[10:07:48] [main/INFO] [FML]: Searching D:\Servers\Minecraft\IC2server\.\mods for mods
+[10:07:48] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:07:48] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:07:48] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[10:07:48] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:07:48] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:07:48] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[10:07:48] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[10:07:48] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[10:07:48] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[10:07:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:07:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:07:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:07:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[10:07:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:07:49] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[10:07:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:07:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:07:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:07:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[10:07:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[10:07:49] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[10:07:49] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[10:07:49] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[10:07:49] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[10:07:49] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[10:07:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[10:07:51] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[10:07:51] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[10:07:51] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[10:07:51] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[10:07:51] [Server thread/INFO] [FML]: Searching D:\Servers\Minecraft\IC2server\.\mods for mods
+[10:07:51] [Server thread/INFO] [FML]: Disabling mod ambientsounds it is client side only.
+[10:07:51] [Server thread/WARN] [FML]: Mod bettermineshafts is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.2.1
+[10:07:52] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
+[10:07:52] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[10:07:52] [Server thread/INFO] [FML]: Disabling mod jeresources it is client side only.
+[10:07:52] [Server thread/WARN] [FML]: Mod patchouli is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0-23.6
+[10:07:52] [Server thread/INFO] [FML]: Disabling mod soundfilters it is client side only.
+[10:07:52] [Server thread/WARN] [FML]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
+[10:07:52] [Server thread/INFO] [FML]: Forge Mod Loader has identified 37 mods to load
+[10:07:52] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[10:07:52] [Server thread/WARN] [FML]: Missing English translation for appleskin: assets/appleskin/lang/en_us.lang
+[10:07:52] [Server thread/WARN] [FML]: Missing English translation for bettercaves: assets/bettercaves/lang/en_us.lang
+[10:07:52] [Server thread/WARN] [FML]: Missing English translation for bettermineshafts: assets/bettermineshafts/lang/en_us.lang
+[10:07:52] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
+[10:07:52] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[10:07:52] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
+[10:07:52] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[10:07:52] [Server thread/WARN] [FML]: Missing English translation for teslacorelib_registries: assets/teslacorelib_registries/lang/en_us.lang
+[10:07:53] [Server thread/INFO] [FML]: FML has found a non-mod file AmbientSounds_v3.1.7_mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[10:07:53] [Server thread/INFO] [FML]: FML has found a non-mod file CTM-MC1.12.2-1.0.2.31.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[10:07:53] [Server thread/INFO] [FML]: FML has found a non-mod file JustEnoughResources-1.12.2-0.9.2.60.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[10:07:53] [Server thread/INFO] [FML]: FML has found a non-mod file SoundFilters-0.12.1_for_1.12.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[10:07:53] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, appleskin, aquaculture, baubles, bettercaves, bettermineshafts, biomesoplenty, botania, clumps, creativecore, energyconverters, extrautils2, forgelin, geckolib3, waila, ic2, industrialforegoing, ironchest, jei, journeymap, mantle, mysticallib, mysticalworld, oreexcavation, patchouli, tconstruct, teslacorelib, teslacorelib_registries, thaumcraft, tcomplement, wawla, waystones, betteranimalsplus] at CLIENT
+[10:07:53] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, appleskin, aquaculture, baubles, bettercaves, bettermineshafts, biomesoplenty, botania, clumps, creativecore, energyconverters, extrautils2, forgelin, geckolib3, waila, ic2, industrialforegoing, ironchest, jei, journeymap, mantle, mysticallib, mysticalworld, oreexcavation, patchouli, tconstruct, teslacorelib, teslacorelib_registries, thaumcraft, tcomplement, wawla, waystones, betteranimalsplus] at SERVER
+[10:07:53] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselIntegration; missing dependency: chisel
+[10:07:53] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
+[10:07:53] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
+[10:07:53] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
+[10:07:53] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse quarkIntegration; missing dependency: quark
+[10:07:53] [Server thread/INFO] [tconstruct]: Preparing to take over the world
+[10:07:54] [Server thread/WARN] [teslacorelib]: Annotated class 'net.ndrei.teslacorelib.blocks.multipart.MultiPartBlockEvents' not found!
+[10:07:55] [Server thread/INFO] [Pulsar-tcomplement]: Skipping Pulse CeramicsPlugin; missing dependency: ceramics
+[10:07:55] [Server thread/INFO] [Pulsar-tcomplement]: Skipping Pulse ChiselPlugin; missing dependency: chisel
+[10:07:55] [Server thread/INFO] [Pulsar-tcomplement]: Skipping Pulse ExNihiloPlugin; missing dependency: exnihilocreatio
+[10:07:55] [Server thread/INFO] [Pulsar-tcomplement]: Skipping Pulse ToolLevelingPlugin; missing dependency: tinkertoolleveling
+[10:07:55] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[10:07:55] [Server thread/INFO] [FML]: Found 1256 ObjectHolder annotations
+[10:07:55] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[10:07:55] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[10:07:55] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[10:07:55] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[10:07:55] [Server thread/INFO] [bettercaves]: Creating directory for dimension-specific Better Caves configs at D:\Servers\Minecraft\IC2server\config\bettercaves-1_12_2
+[10:07:56] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[10:07:56] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Starting version check at https://raw.githubusercontent.com/Buuz135/Industrial-Foregoing/master/update.json
+[10:07:56] [Forge Version Check/INFO] [forge.VersionCheck]: [industrialforegoing] Found status: BETA Target: null
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `xutesrtile`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [tconstruct-API]: Itemstack 1xitem.null@17 cannot represent material xu_evil_metal since it is not associated with the material!
+[10:07:57] [Server thread/WARN] [tconstruct-API]: Itemstack 1xitem.null@12 cannot represent material xu_enchanted_metal since it is not associated with the material!
+[10:07:57] [Server thread/WARN] [tconstruct-API]: Itemstack 1xitem.null@11 cannot represent material xu_demonic_metal since it is not associated with the material!
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilesoundmuffler`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcan`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcanfluids`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashcanenergy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepassivegenerator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowerhandcrank`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilesupermobspawner`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepoweroverload`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileresonator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilespotlight`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilescreen`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletransferholder`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileplayerchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilechunkloader`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileindexer`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecrafter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilescanner`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemine`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileuse`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank16`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank256`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank4096`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tank65536`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tankinf`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemachineprovider`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilemachinereceiver`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileteleporter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowertransmitter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilepowerbattery`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilequarryproxy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilequarry`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilelargishchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileminchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilerainbowgenerator`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativechest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativeenergy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tilecreativeharvest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileterraformer`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileterraformerclimograph`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tiletrashchest`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileanalogcrafter`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:07:57] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `xu2` for name `tileinteractionproxy`, expected `extrautils2`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 352 out of 352 recipes for shaped recipes
+[10:08:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 79 out of 79 recipes for shapeless recipes
+[10:08:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
+[10:08:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
+[10:08:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[10:08:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
+[10:08:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
+[10:08:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 12 out of 12 recipes for extractor recipes
+[10:08:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 74 out of 74 recipes for macerator recipes
+[10:08:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
+[10:08:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
+[10:08:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[10:08:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[10:08:00] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.craftingstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.stenciltable`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partbuilder`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.patternchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolforge`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_controller`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_component`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.faucet`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_basin`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_drain`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.seared_furnace`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tinker_tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.item_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.drying_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.wooden_hopper`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.slime_channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `conveyor_tile`, expected `industrialforegoing`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:01] [Server thread/INFO] [FML]: Applying holder lookups
+[10:08:01] [Server thread/INFO] [FML]: Holder lookups applied
+[10:08:02] [Server thread/INFO] [FML]: Applying holder lookups
+[10:08:02] [Server thread/INFO] [FML]: Holder lookups applied
+[10:08:02] [Server thread/INFO] [FML]: Applying holder lookups
+[10:08:02] [Server thread/INFO] [FML]: Holder lookups applied
+[10:08:02] [Server thread/INFO] [FML]: Applying holder lookups
+[10:08:02] [Server thread/INFO] [FML]: Holder lookups applied
+[10:08:02] [Server thread/INFO] [FML]: Injecting itemstacks
+[10:08:02] [Server thread/INFO] [FML]: Itemstack injection complete
+[10:08:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[10:08:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[10:08:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[10:08:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on 192.168.0.40:25565
+[10:08:02] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[10:08:02] [Server thread/INFO] [THAUMCRAFT]: Checking for mod & oredict compatibilities
+[10:08:02] [Server thread/INFO] [THAUMCRAFT]: Adding entities to MFR safari net blacklist.
+[10:08:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `slime`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[10:08:02] [Server thread/INFO] [FML]: Applying holder lookups
+[10:08:02] [Server thread/INFO] [FML]: Holder lookups applied
+[10:08:03] [Server thread/INFO] [betteranimalsplus]: Overspawning lammergeiers...
+[10:08:03] [Server thread/INFO] [FML]: Injecting itemstacks
+[10:08:03] [Server thread/INFO] [FML]: Itemstack injection complete
+[10:08:03] [Server thread/INFO] [THAUMCRAFT]: Loaded 22 research entries from thaumcraft:research/alchemy
+[10:08:03] [Server thread/INFO] [THAUMCRAFT]: Loaded 5 research entries from thaumcraft:research/eldritch
+[10:08:03] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/basics
+[10:08:03] [Server thread/INFO] [THAUMCRAFT]: Loaded 23 research entries from thaumcraft:research/auromancy
+[10:08:03] [Server thread/INFO] [THAUMCRAFT]: Loaded 12 research entries from thaumcraft:research/scans
+[10:08:03] [Server thread/INFO] [THAUMCRAFT]: Loaded 20 research entries from thaumcraft:research/artifice
+[10:08:03] [Server thread/INFO] [THAUMCRAFT]: Loaded 17 research entries from thaumcraft:research/infusion
+[10:08:03] [Server thread/INFO] [THAUMCRAFT]: Loaded 29 research entries from thaumcraft:research/golemancy
+[10:08:03] [Server thread/INFO] [botania]: The Lexica Botania has 26889 words.
+[10:08:03] [Server thread/INFO] [tconstruct-TinkerSmeltery]: Started adding oredict melting recipes
+[10:08:04] [Server thread/INFO] [tconstruct-TinkerSmeltery]: Oredict melting recipes finished in 467.2789 ms
+[10:08:04] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(-4, -8) invalid, -8 smaller than -4
+[10:08:04] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[10:08:04] [Server thread/INFO] [ic2.General]: ic2 version 2.8.170-ex112 loaded.
+[10:08:04] [Server thread/INFO] [betteranimalsplus]: Crazy bird creation complete.
+[10:08:04] [Server thread/INFO] [Waila]: Starting Waila...
+[10:08:04] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[10:08:04] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[10:08:04] [Server thread/INFO] [Waila]: Registering plugins...
+[10:08:04] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[10:08:04] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[10:08:04] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[10:08:04] [Server thread/INFO] [Waila]: Registering plugin at net.blay09.mods.waystones.compat.WailaProvider
+[10:08:04] [Server thread/INFO] [Waila]: Registering plugin at net.darkhax.wawla.engine.waila.EntityProvider
+[10:08:04] [Server thread/INFO] [Waila]: Registering plugin at net.darkhax.wawla.engine.waila.TileProvider
+[10:08:04] [Server thread/INFO] [Waila]: Registering plugin at slimeknights.tconstruct.plugin.waila.WailaRegistrar
+[10:08:04] [Server thread/INFO] [Waila]: Starting Waila took 31.05 ms
+[10:08:04] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 37 mods
+[10:08:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[10:08:04] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[10:08:04] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: energyconverters:energy_bridge Expected: 918 Got: 1240
+[10:08:04] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: energyconverters:energy_producer_fe Expected: 919 Got: 1241
+[10:08:04] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: energyconverters:energy_consumer_fe Expected: 920 Got: 1242
+[10:08:04] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: energyconverters:energy_producer_eu Expected: 921 Got: 1243
+[10:08:04] [Server thread/WARN] [FML]: Registry Block: Object did not get ID it asked for. Name: energyconverters:energy_consumer_eu Expected: 922 Got: 1244
+[10:08:04] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: energyconverters:energy_bridge Expected: 5182 Got: 5714
+[10:08:04] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: energyconverters:energy_producer_fe Expected: 5183 Got: 5715
+[10:08:04] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: energyconverters:energy_consumer_fe Expected: 5184 Got: 5716
+[10:08:04] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: energyconverters:energy_producer_eu Expected: 5185 Got: 5717
+[10:08:04] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: energyconverters:energy_consumer_eu Expected: 5186 Got: 5718
+[10:08:04] [Server thread/INFO] [FML]: Applying holder lookups
+[10:08:04] [Server thread/INFO] [FML]: Holder lookups applied
+[10:08:04] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[10:08:04] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[10:08:04] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:89]: ChunkGeneratorOverworldBOP json: 
+[10:08:04] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:96]: ChunkGeneratorOverworldBOP settings: {"landScheme":"vanilla","tempScheme":"medium_zones","rainScheme":"medium_zones","biomeSize":"medium","amplitude":1.0,"generateBopOre":true,"generatePoisonIvy":false,"generateBerryBushes":true,"generateThorns":true,"generateQuicksand":true,"generateLiquidPoison":true,"generateHotSprings":true,"generateNetherHives":true,"generateEndFeatures":true,"mainNoiseScaleX":80.0,"mainNoiseScaleY":160.0,"mainNoiseScaleZ":80.0,"coordinateScale":684.412,"heightScale":684.412,"upperLimitScale":512.0,"lowerLimitScale":512.0}
+[10:08:04] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@6450b452)
+[10:08:05] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 781 advancements
+[10:08:05] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 0
+[10:08:05] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@6450b452)
+[10:08:05] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 1
+[10:08:05] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[10:08:05] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@6450b452)
+[10:08:05] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -1
+[10:08:05] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[10:08:05] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[10:08:05] [Server thread/INFO] [FML]: Loading dimension -11325 (world) (net.minecraft.server.dedicated.DedicatedServer@6450b452)
+[10:08:05] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -11325
+[10:08:05] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[10:08:05] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[10:08:05] [Server thread/INFO] [FML]: Loading dimension -9999 (world) (net.minecraft.server.dedicated.DedicatedServer@6450b452)
+[10:08:05] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -9999
+[10:08:05] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[10:08:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (1,603s)! For help, type "help" or "?"
+[10:08:06] [Thread-4/INFO] [THAUMCRAFT]: Starting aura thread for dim 0
+[10:08:06] [Thread-5/INFO] [THAUMCRAFT]: Starting aura thread for dim 1
+[10:08:06] [Thread-6/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[10:08:06] [Thread-7/INFO] [THAUMCRAFT]: Starting aura thread for dim -11325
+[10:08:06] [Thread-8/INFO] [THAUMCRAFT]: Starting aura thread for dim -9999
+[10:08:06] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 1
+[10:08:06] [Server thread/INFO] [FML]: Unloading dimension 1
+[10:08:06] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -1
+[10:08:06] [Server thread/INFO] [FML]: Unloading dimension -1
+[10:08:06] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -11325
+[10:08:06] [Server thread/INFO] [FML]: Unloading dimension -11325
+[10:08:08] [Thread-5/INFO] [THAUMCRAFT]: Stopping aura thread for dim 1
+[10:08:08] [Thread-7/INFO] [THAUMCRAFT]: Stopping aura thread for dim -11325
+[10:08:08] [Thread-6/INFO] [THAUMCRAFT]: Stopping aura thread for dim -1
+[10:11:32] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Lartrax is 1100815f-2b8e-409b-8848-87ef6a6948f5
+[10:11:32] [Netty Server IO #3/INFO] [FML]: Client protocol version 2
+[10:11:32] [Netty Server IO #3/INFO] [FML]: Client attempting to join with 41 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,industrialforegoing@1.12.2-1.12.2,tcomplement@1.12.2-0.4.3,ambientsounds@3.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.301,botania@r1.10-364,energyconverters@1.3.7.30,teslacorelib_registries@1.0.18,extrautils2@1.0,wawla@2.6.275,bettercaves@1.12.2,mantle@1.12-1.3.3.55,ic2@2.8.170-ex112,patchouli@1.0-23.6,waystones@4.1.0,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p1,teslacorelib@1.0.18,oreexcavation@1.4.150,FML@8.0.99.99,betteranimalsplus@9.0.1,forgelin@1.8.4,appleskin@1.0.14,waila@1.8.26,aquaculture@1.6.8,jeresources@0.9.2.60,thaumcraft@6.1.BETA26,mysticalworld@1.12.2-1.11.0,forge@14.23.5.2860,mysticallib@1.12.2-1.13.0,bettermineshafts@1.12.2-2.2.1,soundfilters@0.12.1_for_1.12,geckolib3@3.0.30,ironchest@1.12.2-7.0.67.844
+[10:11:32] [Netty Server IO #3/INFO] [journeymap]: CLIENT
+[10:11:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[10:11:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Lartrax[/192.168.0.40:50828] logged in with entity id 180 at (310.0374097688082, 87.0, 694.159665507558)
+[10:11:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lartrax joined the game
+[10:11:33] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Lartrax'/180, l='world', x=310,04, y=87,00, z=694,16] connected. Sending ping
+[10:13:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Lartrax lost connection: Disconnected
+[10:13:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Lartrax left the game
+[10:14:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[10:14:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[10:14:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[10:14:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[10:14:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[10:14:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[10:14:03] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[10:14:03] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -9999
+[10:14:03] [Server thread/INFO] [FML]: Unloading dimension 0
+[10:14:03] [Server thread/INFO] [FML]: Unloading dimension -9999
+[10:14:03] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
